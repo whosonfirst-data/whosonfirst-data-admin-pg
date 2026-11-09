@@ -47,7 +47,7 @@
         "wk:page":"Hisiu"
     },
     "wof:country":"PG",
-    "wof:geomhash":"9593d158424ba4bba318c0f0ebd04c9d",
+    "wof:geomhash":"22217f9b9c96e42e1fd2890426d5e27c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,5 +73,5 @@
     146.77361000000005,
     -9.04798
 ],
-  "geometry": {"coordinates":[146.77361000000005,-9.04798],"type":"Point"}
+  "geometry": {"coordinates":[146.77361,-9.04798],"type":"Point"}
 }

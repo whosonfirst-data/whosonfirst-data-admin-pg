@@ -46,7 +46,7 @@
         "gn:id":2133204
     },
     "wof:country":"PG",
-    "wof:geomhash":"52bf00a7b2707bd392e5261e75c4fbf5",
+    "wof:geomhash":"407fc05f4be35e2546f09b6fc8d039a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,5 +72,5 @@
     147.70293999999996,
     -10.01086
 ],
-  "geometry": {"coordinates":[147.70293999999996,-10.01086],"type":"Point"}
+  "geometry": {"coordinates":[147.70294,-10.01086],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Bakop"
     },
     "wof:country":"PG",
-    "wof:geomhash":"a80892b8e4db0030e7a824221fb8baf5",
+    "wof:geomhash":"32e692c11c6615c5b5ed95abcca303c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     152.94883000000004,
     -4.75299
 ],
-  "geometry": {"coordinates":[152.94883000000004,-4.75299],"type":"Point"}
+  "geometry": {"coordinates":[152.94883,-4.75299],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Jivevaneng"
     },
     "wof:country":"PG",
-    "wof:geomhash":"375bf9c937ab9b5441d0c66c2350f985",
+    "wof:geomhash":"cf6beb7ad5fc7af67af88e740b680feb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     147.80978000000005,
     -6.51839
 ],
-  "geometry": {"coordinates":[147.80978000000005,-6.51839],"type":"Point"}
+  "geometry": {"coordinates":[147.80978,-6.51839],"type":"Point"}
 }

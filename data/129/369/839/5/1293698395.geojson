@@ -42,7 +42,7 @@
         "wk:page":"Gili_Gili"
     },
     "wof:country":"PG",
-    "wof:geomhash":"752fe3a6842290175ea057a64c1701e4",
+    "wof:geomhash":"f78c401b70cf6c77262138df043b28da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     150.32443999999995,
     -10.3049
 ],
-  "geometry": {"coordinates":[150.32443999999995,-10.3049],"type":"Point"}
+  "geometry": {"coordinates":[150.32444,-10.3049],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Tabubil"
     },
     "wof:country":"PG",
-    "wof:geomhash":"0100a4dee746bdd18a305171b270e12f",
+    "wof:geomhash":"2379c4f77be0623b3ba1273bdcb2ce14",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,5 +96,5 @@
     141.22921000000005,
     -5.27379
 ],
-  "geometry": {"coordinates":[141.22921000000005,-5.27379],"type":"Point"}
+  "geometry": {"coordinates":[141.22921,-5.27379],"type":"Point"}
 }

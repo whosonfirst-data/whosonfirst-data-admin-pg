@@ -42,7 +42,7 @@
         "wk:page":"Bumayong"
     },
     "wof:country":"PG",
-    "wof:geomhash":"305dd8f1e3add128bb245d37c7c9263e",
+    "wof:geomhash":"8c53ec3981a396eede7d15ed89a6f960",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     147.00068000000005,
     -6.63409
 ],
-  "geometry": {"coordinates":[147.00068000000005,-6.63409],"type":"Point"}
+  "geometry": {"coordinates":[147.00068,-6.63409],"type":"Point"}
 }

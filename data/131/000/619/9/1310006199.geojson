@@ -47,7 +47,7 @@
         "wk:page":"Alola%2C_Papua_New_Guinea"
     },
     "wof:country":"PG",
-    "wof:geomhash":"203a5f9dcac75ccd155e1770a0f58f2f",
+    "wof:geomhash":"f870d8e836dd1cd2f13ddc90eafe686b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,5 +73,5 @@
     147.73333,
     -9.0
 ],
-  "geometry": {"coordinates":[147.73333,-9.0],"type":"Point"}
+  "geometry": {"coordinates":[147.73333,-9],"type":"Point"}
 }

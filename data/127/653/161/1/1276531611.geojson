@@ -42,7 +42,7 @@
         "wk:page":"Katika%2C_Papua_New_Guinea"
     },
     "wof:country":"PG",
-    "wof:geomhash":"e9fb0b4e41caf057ba680b16e7b34ab2",
+    "wof:geomhash":"1216583b669fe82ab3f388bb42c53ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     147.83333000000005,
     -6.48333
 ],
-  "geometry": {"coordinates":[147.83333000000005,-6.48333],"type":"Point"}
+  "geometry": {"coordinates":[147.83333,-6.48333],"type":"Point"}
 }

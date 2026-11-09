@@ -42,7 +42,7 @@
         "wk:page":"Pongani"
     },
     "wof:country":"PG",
-    "wof:geomhash":"85f10f87706d831c39688e3b3905d491",
+    "wof:geomhash":"70077aaaf90d6920ca33d13a0e97e6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     148.56606000000005,
     -9.05097
 ],
-  "geometry": {"coordinates":[148.56606000000005,-9.05097],"type":"Point"}
+  "geometry": {"coordinates":[148.56606,-9.05097],"type":"Point"}
 }

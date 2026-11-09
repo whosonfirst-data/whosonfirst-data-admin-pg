@@ -48,7 +48,7 @@
         "wk:page":"Bereina"
     },
     "wof:country":"PG",
-    "wof:geomhash":"7987e12023661c09424966ec34495fd4",
+    "wof:geomhash":"a90a2b1e17b30c6b0e4266edb8e02144",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,5 +74,5 @@
     146.50718999999995,
     -8.63173
 ],
-  "geometry": {"coordinates":[146.50718999999995,-8.63173],"type":"Point"}
+  "geometry": {"coordinates":[146.50719,-8.63173],"type":"Point"}
 }

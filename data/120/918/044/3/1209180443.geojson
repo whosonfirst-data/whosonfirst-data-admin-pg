@@ -48,7 +48,7 @@
         "wk:page":"Krisa"
     },
     "wof:country":"PG",
-    "wof:geomhash":"afb9508c6964f29cb972da18f7f9fd3e",
+    "wof:geomhash":"397cf602056588b02f2e67b2898be11c",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -71,5 +71,5 @@
     141.28291000000004,
     -2.85271
 ],
-  "geometry": {"coordinates":[141.28291000000004,-2.85271],"type":"Point"}
+  "geometry": {"coordinates":[141.28291,-2.85271],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Lamoran"
     },
     "wof:country":"PG",
-    "wof:geomhash":"37bfd22670fc8fa0073c94cb77403090",
+    "wof:geomhash":"018bb3f55817ea883baa1ed016fd44fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,5 +71,5 @@
     153.05191000000005,
     -4.41787
 ],
-  "geometry": {"coordinates":[153.05191000000005,-4.41787],"type":"Point"}
+  "geometry": {"coordinates":[153.05191,-4.41787],"type":"Point"}
 }

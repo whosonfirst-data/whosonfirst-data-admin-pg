@@ -38,7 +38,7 @@
         "gn:id":2099719
     },
     "wof:country":"PG",
-    "wof:geomhash":"db66aa66d99882749876e43596a324c9",
+    "wof:geomhash":"d7ed329551becfcc4afb720857584d45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,5 +63,5 @@
     148.16666999999995,
     -8.2
 ],
-  "geometry": {"coordinates":[148.16666999999995,-8.2],"type":"Point"}
+  "geometry": {"coordinates":[148.16667,-8.2],"type":"Point"}
 }

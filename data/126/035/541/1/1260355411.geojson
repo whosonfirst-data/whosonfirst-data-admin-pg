@@ -72,7 +72,7 @@
         "wk:page":"Amto_language"
     },
     "wof:country":"PG",
-    "wof:geomhash":"6aaadbbd2065391941237fb454c41288",
+    "wof:geomhash":"b636528c8d8caae107946a7af8202ca0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -98,5 +98,5 @@
     141.31426000000005,
     -4.01165
 ],
-  "geometry": {"coordinates":[141.31426000000005,-4.01165],"type":"Point"}
+  "geometry": {"coordinates":[141.31426,-4.01165],"type":"Point"}
 }
