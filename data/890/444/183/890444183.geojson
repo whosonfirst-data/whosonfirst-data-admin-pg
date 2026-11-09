@@ -564,8 +564,7 @@
     "wof:belongsto":[
         102191583,
         85632347,
-        85676581,
-        1091703859
+        85676581
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -600,7 +599,6 @@
         {
             "continent_id":102191583,
             "country_id":85632347,
-            "county_id":1091703859,
             "locality_id":890444183,
             "region_id":85676581
         }
@@ -608,7 +606,7 @@
     "wof:id":890444183,
     "wof:lastmodified":1706240576,
     "wof:name":"Port Moresby",
-    "wof:parent_id":1091703859,
+    "wof:parent_id":85676581,
     "wof:placetype":"locality",
     "wof:population":364125,
     "wof:population_rank":10,

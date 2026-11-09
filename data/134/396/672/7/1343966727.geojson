@@ -33,8 +33,7 @@
     "wof:belongsto":[
         102191583,
         85632347,
-        85676581,
-        1091703859
+        85676581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +45,6 @@
         {
             "continent_id":102191583,
             "country_id":85632347,
-            "county_id":1091703859,
             "locality_id":1343966727,
             "region_id":85676581
         }
@@ -54,7 +52,7 @@
     "wof:id":1343966727,
     "wof:lastmodified":1566677852,
     "wof:name":"Taurama",
-    "wof:parent_id":1091703859,
+    "wof:parent_id":85676581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pg",
     "wof:superseded_by":[],
