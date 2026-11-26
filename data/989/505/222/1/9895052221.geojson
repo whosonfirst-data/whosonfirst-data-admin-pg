@@ -1,0 +1,74 @@
+{
+  "id": 9895052221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.78835,-5.57187,151.78835,-5.57187",
+    "geom:latitude":-5.57187,
+    "geom:longitude":151.78835,
+    "iso:country":"PG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2091555: name \"Manguna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2091555"
+        },
+        {
+            "citation":"GeoNames populated place 2091555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2091555"
+        },
+        {
+            "citation":"GeoNames populated place 2091555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2091555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091704139 (Pomio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347,
+        85676565,
+        102191583,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091555
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7428b2fbe03da9f3e9f6a69fb71f89f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":9895052221,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":9895052221,
+    "wof:lastmodified":1795735230,
+    "wof:name":"Manguna",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.78835,
+    -5.57187,
+    151.78835,
+    -5.57187
+],
+  "geometry": {"coordinates":[151.78835,-5.57187],"type":"Point"}
+}

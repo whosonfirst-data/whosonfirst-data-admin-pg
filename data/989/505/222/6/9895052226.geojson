@@ -1,0 +1,74 @@
+{
+  "id": 9895052226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.25449,-9.01849,143.25449,-9.01849",
+    "geom:latitude":-9.01849,
+    "geom:longitude":143.25449,
+    "iso:country":"PG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414188: name \"New Katatai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414188"
+        },
+        {
+            "citation":"GeoNames populated place 13414188: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414188"
+        },
+        {
+            "citation":"GeoNames populated place 13414188: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414188"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091704467 (South Fly), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347,
+        85676557,
+        102191583,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414188
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"16528f66f9546216ebbc1bee3c679595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":9895052226,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":9895052226,
+    "wof:lastmodified":1795735230,
+    "wof:name":"New Katatai",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.25449,
+    -9.01849,
+    143.25449,
+    -9.01849
+],
+  "geometry": {"coordinates":[143.25449,-9.01849],"type":"Point"}
+}
