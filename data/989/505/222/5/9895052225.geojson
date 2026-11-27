@@ -1,0 +1,74 @@
+{
+  "id": 9895052225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.55982,-1.46326,149.55982,-1.46326",
+    "geom:latitude":-1.46326,
+    "geom:longitude":149.55982,
+    "iso:country":"PG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11979007: name \"Bomalau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11979007"
+        },
+        {
+            "citation":"GeoNames populated place 11979007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11979007"
+        },
+        {
+            "citation":"GeoNames populated place 11979007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11979007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091702917 (Kavieng), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347,
+        85676587,
+        102191583,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11979007
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"615cf5e5145f45e461b97b0d4aa6f49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":9895052225,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":9895052225,
+    "wof:lastmodified":1795735230,
+    "wof:name":"Bomalau",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.55982,
+    -1.46326,
+    149.55982,
+    -1.46326
+],
+  "geometry": {"coordinates":[149.55982,-1.46326],"type":"Point"}
+}
